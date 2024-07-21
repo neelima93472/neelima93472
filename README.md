@@ -9,7 +9,7 @@ I am a B.Tech 4th year student passionate about technology and innovation. I hav
 - **B.Tech**, Seshadri rao Gudlavalleru engineering college
   - Branch:Artificial intelligence and data Science
   - Year: 4th Year
-  - Expected Graduation: [06, 2025]
+  - Expected Graduation: 06/2025
 
 ## Contact Information
 
